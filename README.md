@@ -1,4 +1,4 @@
-# phml
+# </ phml
 
 A lightweight PHP library for building HTML with functions and arrays.
 
